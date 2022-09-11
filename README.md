@@ -16,3 +16,5 @@ For coverage report, run `npm run test:coverage`.
 Steps:\
 1.) Connect repository to hosting service.\
 2.) Set all previously mentioned environment variables again accordingly.
+
+### Application: https://common-tongue.vercel.app/login
